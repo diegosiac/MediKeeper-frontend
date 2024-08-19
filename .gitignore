@@ -18,3 +18,15 @@ web-build/
 
 expo-env.d.ts
 # @end expo-cli
+
+# eslint cache
+.eslintcache
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env
+.env*.local
